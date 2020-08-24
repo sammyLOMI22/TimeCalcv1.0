@@ -5,5 +5,6 @@ App icon and assets created by me in Affinity Designer. This is just one activit
 
 
 ### Future Plans for Version 2.0
-1.Use time picker class instead of EditText field./N
+1.Use time picker class instead of EditText field.
 2.Include more time calculation activities.
+3.improve User interface
