@@ -8,3 +8,4 @@ App icon and assets created by me in Affinity Designer. This is just one activit
 1.Use time picker class instead of EditText field.<br/>
 2.Include more time calculation activities.<br/>
 3.Improve User interface.<br/>
+4.Get rid of hardcoded text.
